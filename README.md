@@ -13,3 +13,7 @@ I am calling Rest Apis for all these functionalities.
 If user click a post a view would be added
 
 If user click on like a view and like both will be added if not added before
+
+If a user is login he will have a choice of creating a post
+
+He can also sign out
