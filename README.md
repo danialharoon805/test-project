@@ -9,3 +9,7 @@ I have a state isLogin that i also store in local storage when a user sign up an
 That user can also Like and View once each post a day
 
 I am calling Rest Apis for all these functionalities.
+
+If user click a post a view would be added
+
+If user click on like a view and like both will be added if not added before
